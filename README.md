@@ -1,5 +1,3 @@
-Here's a fine-tuned version of your README. I’ve improved clarity, structure, grammar, and tone for better professionalism and readability, while preserving your original technical intent:
-
 ---
 
 ## 🚀 **Terraform S3 + Lambda Trigger with Terragrunt**
